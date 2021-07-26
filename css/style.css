@@ -1,5 +1,25 @@
+/* Custom CSS */
 @media screen and (min-width: 756px) {
-    .newsletter-input {
-        width: 50%;
-    }
+  .newsletter-input {
+    width: 50%;
+  }
 }
+@media screen and (max-width: 756px) {
+  body {
+    text-align: center;
+  }
+  .skillmaker-contact {
+    text-align: left;
+  }
+  .copyright-text {
+    font-size: 13px;
+  }
+}
+/* ------------------------------------END---------------------------------------- */
+
+/*  
+    Developer: Shariful Islam Sourav
+    Date: 4 July 2021
+    Used: HTML-CSS-Bootstrap
+    Github: https://github.com/Shariful-Islam-Sourav
+*/
